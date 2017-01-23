@@ -1,0 +1,6 @@
+{
+  "name": "OnLine",
+  "description": "A project for improve your experience in restaurants",
+  "repository": "https://github.com/alex-amaral/OnLine.git",
+  "keywords": ["node", "express", "online", "restaurants", "food"],
+}
